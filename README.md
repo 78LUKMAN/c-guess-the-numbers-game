@@ -11,7 +11,7 @@
 - Menampilkan Kunci Jawaban
 - Menyimpan data permainan (nama pemain, tanggal bermain, status (kalah atau menang), kasus angka, kunci jawaban, total kemenangan dan kekalahan)
 
-## =====================================================
+
 
 ## How to Play
 - Run the program
